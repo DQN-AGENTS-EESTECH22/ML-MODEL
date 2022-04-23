@@ -1,2 +1,2 @@
-primary rgb([225 172 115]) 
-secondary rgb([ 7 38 29]) 
+primary rgb([231 239 248]) 
+secondary rgb([94 84 58]) 
